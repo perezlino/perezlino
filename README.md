@@ -61,3 +61,8 @@
     <img src="https://komarev.com/ghpvc/?username=perezlino&color=blue&style=flat)" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/perezlino">
+  <img src="https://img.shields.io/github/followers/perezlino?style=flat)" />
+  </a>
+</p>
