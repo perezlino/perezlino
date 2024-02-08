@@ -25,7 +25,7 @@
 [![Power BI](https://img.shields.io/badge/POWER%20BI-000000?style=for-the-badge&logo=powerbi)](https://github.com/perezlino)
 [![Apache Hadoop](https://img.shields.io/badge/HADOOP-000000?style=for-the-badge&logo=apachehadoop)](https://github.com/perezlino)
 [![Apache Spark](https://img.shields.io/badge/SPARK-000000?style=for-the-badge&logo=apachespark)](https://github.com/perezlino)
-[![Apache Airflow](https://img.shields.io/badge/AIRFLOW-000000?style=for-the-badge&logo=apacheairflow)](https://hub.docker.com/u/perezlino)
+[![Apache Airflow](https://img.shields.io/badge/AIRFLOW-000000?style=for-the-badge&logo=apacheairflow)](https://github/perezlino)
 
 ### Data Science
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/wervlad)
