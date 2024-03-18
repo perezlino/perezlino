@@ -20,7 +20,10 @@
 
 ### Lenguajes
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/perezlino)
+
+### Bases de datos
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/perezlino)
+[![MongoDB](https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb)](https://github.com/perezlino)
 
 ### Tecnologías & Frameworks
 [![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git)](https://github.com/perezlino)
