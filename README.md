@@ -33,6 +33,11 @@
 [![Apache Spark](https://img.shields.io/badge/SPARK-000000?style=for-the-badge&logo=apachespark)](https://github.com/perezlino)
 [![Apache Airflow](https://img.shields.io/badge/AIRFLOW-000000?style=for-the-badge&logo=apacheairflow)](https://github/perezlino)
 
+### Conexión y consumo de API's
+[![json](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json)](https://github.com/perezlino)
+[![ijson](https://img.shields.io/badge/IJSON-000000?style=for-the-badge&logo=python)](https://github.com/perezlino)
+[![urllib](https://img.shields.io/badge/URLLIB-000000?style=for-the-badge&logo=python)](https://github.com/perezlino)
+
 ### Web scrapping
 [![BeautifulSoup](https://img.shields.io/badge/BEAUTIFULSOUP-000000?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAABcVBMVEUAAAAhP60hQK4iQK4hPLEhPrEgP60hQK8iQK8fQq8hP64XL8UiQa0hQa4hQa8iQawgQJ8hPq4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQa4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4gP64fPq0fPq0gP64hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4gP64gP60hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4hQK4fPq0tS7VGYsVadNBjfNZHYsVCXsJ4j%2BKPpPGXrPYkQrArSbQwTreSMQ6UAAAAbXRSTlMAAAAAAAAAAAAAAAAAAAAAAAAcXHxpK0bQ5GsEKtvAhqv39VOCrRIFfrcIsFUn6t4bBrb9SR3jfwRRbWxMKbpAsun7%2BuLw%2Btz5SDLu8zkPxM200961ztMXW%2FhWGld2e4f%2BnAPp%2FPHGaAwHJkQwKwL4bgAAAR9JREFUKM%2FF01dTwlAQBeB4sHcxgog1FjSKIIpYULBhbFHBjoq9bxCk%2F3ofdHy5G149r9%2Fs3Ls7u5IkpAKARTIJKvETXgFru9xhq2K9GrB3EpGjy8k50N1DvX39A8og9z4wRMMjcI3SmMpVO8dpAoB70uPleMo3PYMa%2BGcdflOWoAYCahlGLdv5L9cBQL0pm470f7ihsam5hWf8ZY5hAKptfkGWF4NLywxbQuGVVcMwjLX1jYjI7k1KfqbS6dRXkjSR7Rplsrl8PpfNkLYl8PYOUaFYKhULRLt7Auv7dHAYjcWiR8d0cir%2B%2FOzcc%2BGNx62XHrqCyK5rRfElEj7l5lYHM5a7YPg%2B8vD49PzCrEErgNe30PuHDqCNv45yx2OSb%2B9WOpmztCfIAAAAAElFTkSuQmCC)](https://github.com/perezlino)
 [![Selenium](https://img.shields.io/badge/SELENIUM-000000?style=for-the-badge&logo=selenium)](https://github.com/perezlino)
