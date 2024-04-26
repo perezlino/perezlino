@@ -20,10 +20,10 @@
 
 ### Lenguajes
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/perezlino/python)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnubash)](https://github.com/perezlino/python)
 
 ### Bases de datos
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/perezlino/sql)
-[![MongoDB](https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb)](https://github.com/perezlino)
 
 ### Tecnologías & Frameworks
 [![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git)](https://github.com/perezlino/git_github)
@@ -32,6 +32,7 @@
 [![Apache Hadoop](https://img.shields.io/badge/HADOOP-000000?style=for-the-badge&logo=apachehadoop)](https://github.com/perezlino/big_data_hadoop)
 [![Apache Spark](https://img.shields.io/badge/SPARK-000000?style=for-the-badge&logo=apachespark)](https://github.com/perezlino/apache_spark)
 [![Apache Airflow](https://img.shields.io/badge/AIRFLOW-000000?style=for-the-badge&logo=apacheairflow)](https://github/perezlino/apache_airflow)
+[![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker)](https://github/perezlino/apache_airflow)
 
 ### Expresiones regulares (RegEx)
 [![regex](https://img.shields.io/badge/RE-000000?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAMAAAC6V%2B0%2FAAACIlBMVEUAAAAdsF8fsWAar13s9O0esGAjsWMbr14csF4AXAD%2F%2FP9LwH8Zr1wZr13%2F%2F%2F8xuHIdsGCA0aQcsF9cxIkYrlwzuXEisWJCvXlOwYMcr14%2Fvn4dsGAdsF8csF4cr14dsF8br14br10ar10ar10ar10ar10br10br14dsF8ar10ar10ar10ar10ar10ar10ar10ar10ar10Zr10ar10br14br10br11UwoUesGAar10ar10esGAcsF8ar10ar10dsF8fsWEar10ar10fsWAgsWEfsWAcsF8ar10dsF8esGAar10ar10esGA0uG8br10br10wtmwbr14ar10ar10br14isWIar10Zr10esGAar10ar10ar10ar10csF4ar10ar10ar10gsWEbr14ar10ar10ar10ar10br14fsWEjsmMdsF8csF8br14csF8ismMar10Zr1wXrlsYrlwvtmxWxIgfsWFFvnxAvHgWrlojsmNZxYoptGeU2rOP2LAgsWFBvXiV2rSJ1qs%2FvHchsmKg3ryB06YZrlwyt27L7dpJv34ptGid3brg9Onb8%2BaW2rUhsWJbxovD6tUntGZQwoPN7twutmtWxIfJ7NnH69dLwH87u3XP7t08u3VUw4YstWo5unNNwYE0uG8%2BvHcYrls4unJBvHgesGBSw4UdsF%2Bl4L%2BC06eR2bF0z50br12W27WT2bIZr11qy5ZhyI8ks2RvzZkzuG%2BLD1uDAAAAb3RSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaPlVVGjKP0u%2F405AzCnbndwqQ%2FJIL%2FXjoNZGTARvU1RxA8PFCXPn6X11gQ%2FJFHtfYHwKYmgI67O07AYKEAg6dnw8Phe6GAj%2Bg3vWhQAIEJU5nTwQRsEUSAAABNUlEQVQY003ITytEURgH4N%2FvPe%2B9d%2B65hzHCjKQsSJZTEyWpW3wJ%2BW6WirKykYWlaCaLKRtLfydkNCbhnjkWTM2zfAiApJ8jOTD3QYoAEDHJKkkiCHnroX3CfS6R2%2FhzSn9je6SskDmGzsh2JJqFkUMu4koymA05BQCMAYSbXOqxsrhOQ35DIpJkP5xTlhUhTb9RHrfWWmsFqqJarTkndP8WqCqqz865EJ6yLMs61lpRFSUsUgBp%2BlP6ihDXISIFEySMG20zcYVSUbQiI8Z5nY4Gq3G92QwbSW0yqIoqLntJOXm8BfI4jq%2BhyrEtzldfvNADQKMV7ngiH6roeAw8AKAZoBpJcmSeMeIlOuxLVjkwb91hHb%2FLfjpOzLzqDkleYC0IuVdMdQjUul9ulyTode%2Bjxgf8Ag%2BuWid7Zn1AAAAAAElFTkSuQmCC)](https://github.com/perezlino/regex)
@@ -60,6 +61,7 @@
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/perezlino)
 [![MacOS](https://img.shields.io/badge/MAC%20OS-000000?style=for-the-badge&logo=macos)](https://github.com/perezlino)
+[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux)](https://github.com/perezlino)
 
 <details>
 <p align="center">
