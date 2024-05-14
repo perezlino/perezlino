@@ -4,8 +4,7 @@
     <b>Bienvenidos a mi repositorio!</b><br><br>
     <i>
         Mi nombre es Alfonso, soy Ingeniero industrial, programador autodidacta y un apasionado por los datos.<br>
-        Actualmente me encuentro adquiriendo conocimientos con todo lo relacionado al area de de datos.<br>
-        Dispuesto a colaborar en proyectos interesantes e innovadores.<br>
+        Actualmente me encuentro dispuesto a colaborar en proyectos interesantes e innovadores.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/aperezlino">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
