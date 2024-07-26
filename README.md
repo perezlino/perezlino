@@ -12,19 +12,18 @@
     <a href="mailto:perezlino@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
-    <a href="https://medium.com/@perezlino">
-        <img src="https://img.shields.io/badge/Medium-blue?style=flat-square&logo=medium" alt="Medium">
-    </a>    
 </p>
 
 ## Conocimientos y habilidades IT
 
 ### Lenguajes
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/perezlino/python)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnubash)](https://github.com/perezlino/python)
+[![Scala](https://img.shields.io/badge/scala-black?style=for-the-badge&logo=scala)](https://github.com/perezlino/scala)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnubash)](https://github.com/perezlino/bash_shell)
 
 ### Bases de datos
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/perezlino/sql)
+[![NoSQL](https://img.shields.io/badge/nosql-black?style=for-the-badge&logo=mongodb)](https://github.com/perezlino/mongodb)
 
 ### Tecnologías & Frameworks
 [![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git)](https://github.com/perezlino/git_github)
@@ -37,6 +36,7 @@
 [![Apache Hive](https://img.shields.io/badge/HIVE-000000?style=for-the-badge&logo=apachehive)](https://github.com/perezlino/apache_hive)
 [![Hue](https://img.shields.io/badge/HUE-000000?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAMAAABy3TwBAAAA%2BVBMVEUofb0ofb0ofb0ofb0mfb1Of7yvhrkofb0ofb0ofb0ofb0ofb0ofb0ofb0ofb0ofb0ofb0ofb0ofb0mfb1UgLyphbl5gronfb0ofb0ofb0ofb0ofb0ofb0ofb0ofb0ofb0ofb0ofb0ofb0mfb1UgLyohbmOhLomfb0ofb0ofb0ofb0ofb0ofb0ofb0ofb0ofb0ofb0ofb0ofb0ofb0wfr2phbmThLomfb0ofb0ofb0ofb0ofb0ofb0ofb0ofb0ofb0ofb0ofb0ofb0ofb0ofb0ofb0tfb2phbmhhbklfb0ofb0ofb0ofb0ofb0ofb0ofb0ofb0ofb0ofb0DVc13AAAAUnRSTlMAFkYHr5pHulUnwUiN0M%2BVlJtWy6zDSdplLuKA5XdMS5H88v6m6ozXYivg7a6duOnvsHnYdqqFzzMya%2BbndU5QTzugpAiydY03e%2B7s8aklseHZU9NbTQAAAEhJREFUCFtjZASD32yMPxg4QSwGBiAhABFlZHzBIAljMioZMFwEM24waDI%2BkgcqBbINoJK31IHEdy4IxwkqyPhQAUw9lnv0FAAltQy%2B0t%2FX%2BAAAAABJRU5ErkJggg%3D%3D)](https://github.com/perezlino/apache_hive)
 [![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker)](https://github/perezlino/apache_airflow)
+[![MongoDB](https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb)](https://github.com/perezlino/mongodb)
 
 ### Expresiones regulares (RegEx)
 [![regex](https://img.shields.io/badge/RE-000000?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAMAAAC6V%2B0%2FAAACIlBMVEUAAAAdsF8fsWAar13s9O0esGAjsWMbr14csF4AXAD%2F%2FP9LwH8Zr1wZr13%2F%2F%2F8xuHIdsGCA0aQcsF9cxIkYrlwzuXEisWJCvXlOwYMcr14%2Fvn4dsGAdsF8csF4cr14dsF8br14br10ar10ar10ar10ar10br10br14dsF8ar10ar10ar10ar10ar10ar10ar10ar10ar10Zr10ar10br14br10br11UwoUesGAar10ar10esGAcsF8ar10ar10dsF8fsWEar10ar10fsWAgsWEfsWAcsF8ar10dsF8esGAar10ar10esGA0uG8br10br10wtmwbr14ar10ar10br14isWIar10Zr10esGAar10ar10ar10ar10csF4ar10ar10ar10gsWEbr14ar10ar10ar10ar10br14fsWEjsmMdsF8csF8br14csF8ismMar10Zr1wXrlsYrlwvtmxWxIgfsWFFvnxAvHgWrlojsmNZxYoptGeU2rOP2LAgsWFBvXiV2rSJ1qs%2FvHchsmKg3ryB06YZrlwyt27L7dpJv34ptGid3brg9Onb8%2BaW2rUhsWJbxovD6tUntGZQwoPN7twutmtWxIfJ7NnH69dLwH87u3XP7t08u3VUw4YstWo5unNNwYE0uG8%2BvHcYrls4unJBvHgesGBSw4UdsF%2Bl4L%2BC06eR2bF0z50br12W27WT2bIZr11qy5ZhyI8ks2RvzZkzuG%2BLD1uDAAAAb3RSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaPlVVGjKP0u%2F405AzCnbndwqQ%2FJIL%2FXjoNZGTARvU1RxA8PFCXPn6X11gQ%2FJFHtfYHwKYmgI67O07AYKEAg6dnw8Phe6GAj%2Bg3vWhQAIEJU5nTwQRsEUSAAABNUlEQVQY003ITytEURgH4N%2FvPe%2B9d%2B65hzHCjKQsSJZTEyWpW3wJ%2BW6WirKykYWlaCaLKRtLfydkNCbhnjkWTM2zfAiApJ8jOTD3QYoAEDHJKkkiCHnroX3CfS6R2%2FhzSn9je6SskDmGzsh2JJqFkUMu4koymA05BQCMAYSbXOqxsrhOQ35DIpJkP5xTlhUhTb9RHrfWWmsFqqJarTkndP8WqCqqz865EJ6yLMs61lpRFSUsUgBp%2BlP6ihDXISIFEySMG20zcYVSUbQiI8Z5nY4Gq3G92QwbSW0yqIoqLntJOXm8BfI4jq%2BhyrEtzldfvNADQKMV7ngiH6roeAw8AKAZoBpJcmSeMeIlOuxLVjkwb91hHb%2FLfjpOzLzqDkleYC0IuVdMdQjUul9ulyTode%2Bjxgf8Ag%2BuWid7Zn1AAAAAAElFTkSuQmCC)](https://github.com/perezlino/regular_expressions_regex)
