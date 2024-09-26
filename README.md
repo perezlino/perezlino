@@ -78,30 +78,30 @@
 
 - ### [Astronomer Certification DAG Authoring for Apache Airflow](https://www.credly.com/badges/6e7a6b94-005c-4460-87e2-b335b0813236)
 
-- ### [Datacamp: Data Engineer Associate](https://www.credly.com/badges/6e7a6b94-005c-4460-87e2-b335b0813236)
+- ### [Datacamp: Data Engineer Associate](https://www.datacamp.com/certificate/DEA0017353590853)
 
 ## Cursos
 
 |AÑO| Curso| Empresa emisora|
 |---|---|---|
 |2021|  Programa de especialización en Ciencia de datos |`KIBERNUM`| 
-|2022|  Python Deep Dive      |UDEMY|
-|2022|  Programa de especialización en Big Data Engineering & Big Data Architect Fundamentals   |BIG DATA ACADEMY|
-|2022|  Scala Programming In-Depth |UDEMY|
-|2022|  Apache Airflow - The Hands-On Guide |UDEMY|
-|2023|  Programa formativo en Spark Scala en Databricks |BIG DATA ACADEMY|
-|2023|  Apache Hive for Data Engineers & Hive to Advance Hive |UDEMY| 
-|2023|  Hadoop Big Data desde cero    |UDEMY|
-|2023|  Databricks Concepts  |DATACAMP|
-|2023|  Data Engineer & Big data Multi-Cloud   |BIG DATA ACADEMY|
-|2023|  Bootcamp Data Science   |DESAFIO LATAM|
-|2023|  Azure Data Factory desde cero    |UDEMY|  
-|2024|  Web Scraping in Python BeautifulSoup, Selenium & Scrapy |UDEMY|
-|2024|  Introduction to Kafka |DATACAMP|
-|2024|  Big data sin misterios |EDX|
-|2024|  MongoDB: Aprende desde cero a experto  |UDEMY|
-|2024|  Using Kafka on Confluent |COURSERA|
-|2024|  Data Analysis with Databricks SQL |DATABRICKS|
-|2024|  GCP Cloud Digital Leader Certification |KODEKLOUD|
-|2024|  Delta Lake with Azure Databricks: Deep Dive |PLURALSIGHT|
-|2024| Databricks - Master Azure Databricks for Data Engineers |UDEMY|
+|2022|  Python Deep Dive |`UDEMY`|
+|2022|  Programa de especialización en Big Data Engineering & Big Data Architect Fundamentals |`BIG DATA ACADEMY`|
+|2022|  Scala Programming In-Depth |`UDEMY`|
+|2022|  Apache Airflow - The Hands-On Guide |`UDEMY`|
+|2023|  Programa formativo en Spark Scala en Databricks |`BIG DATA ACADEMY`|
+|2023|  Apache Hive for Data Engineers & Hive to Advance Hive |`UDEMY`| 
+|2023|  Hadoop Big Data desde cero    |`UDEMY`|
+|2023|  Databricks Concepts  |`DATACAMP`|
+|2023|  Data Engineer & Big data Multi-Cloud   |`BIG DATA ACADEMY`|
+|2023|  Bootcamp Data Science |`DESAFIO LATAM`|
+|2023|  Azure Data Factory desde cero    |`UDEMY`|  
+|2024|  Web Scraping in Python BeautifulSoup, Selenium & Scrapy |`UDEMY`|
+|2024|  Introduction to Kafka |`DATACAMP`|
+|2024|  Big data sin misterios |`EDX`|
+|2024|  MongoDB: Aprende desde cero a experto  |`UDEMY`|
+|2024|  Using Kafka on Confluent |`COURSERA`|
+|2024|  Data Analysis with Databricks SQL |`DATABRICKS`|
+|2024|  GCP Cloud Digital Leader Certification |`KODEKLOUD`|
+|2024|  Delta Lake with Azure Databricks: Deep Dive |`PLURALSIGHT`|
+|2024| Databricks - Master Azure Databricks for Data Engineers |`UDEMY`|
