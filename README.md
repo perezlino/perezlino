@@ -85,23 +85,23 @@
 |AÑO| Curso| Empresa emisora|
 |---|---|---|
 |2021|  Programa de especialización en Ciencia de datos |`KIBERNUM`| 
-|2022|  Python Deep Dive |`UDEMY`|
-|2022|  Programa de especialización en Big Data Engineering & Big Data Architect Fundamentals |`BIG DATA ACADEMY`|
-|2022|  Scala Programming In-Depth |`UDEMY`|
-|2022|  Apache Airflow - The Hands-On Guide |`UDEMY`|
-|2023|  Programa formativo en Spark Scala en Databricks |`BIG DATA ACADEMY`|
-|2023|  Apache Hive for Data Engineers & Hive to Advance Hive |`UDEMY`| 
-|2023|  Hadoop Big Data desde cero    |`UDEMY`|
-|2023|  Databricks Concepts  |`DATACAMP`|
-|2023|  Data Engineer & Big data Multi-Cloud   |`BIG DATA ACADEMY`|
+|2022|  [Python Deep Dive](https://www.udemy.com/certificate/UC-a68e80bf-156e-467b-9c71-256f4019c17c/) |`UDEMY`|
+|2022|  [Programa de especialización en Big Data Engineering & Big Data Architect Fundamentals](https://uandresbelloedu-my.sharepoint.com/:b:/g/personal/a_perezlino_uandresbello_edu/EQymkusqMGFKlGX2PUM9P3oB4wzrB8o0b__p_yY2YewVIQ?e=beSiLQ) |`BIG DATA ACADEMY`|
+|2022|  [Scala Programming In-Depth](https://www.udemy.com/certificate/UC-9dec48fc-8d81-45bc-a282-a425951c4e5e/) |`UDEMY`|
+|2022|  [Apache Airflow - The Hands-On Guide](https://www.udemy.com/certificate/UC-d64e4f32-5470-47c7-8ef6-ed1b7d46460d/) |`UDEMY`|
+|2023|  [Programa formativo en Spark Scala en Databricks](https://drive.google.com/file/d/1fz3Wzo7PzfviZbxnnKgGAunrN99UBe4J/view?usp=sharing) |`BIG DATA ACADEMY`|
+|2023|  [Apache Hive for Data Engineers & Hive to Advance Hive](https://uandresbelloedu-my.sharepoint.com/:b:/g/personal/a_perezlino_uandresbello_edu/EaSkK0s6F69GlEvtlNApBzYB1juCeTkh3iS_0scsAXTngw?e=eHD4K7) |`UDEMY`| 
+|2023|  [Hadoop Big Data desde cero](https://www.udemy.com/certificate/UC-c92dc18c-bffe-408f-b76c-c9723536d70c/) |`UDEMY`|
+|2023|  [Databricks Concepts](https://www.datacamp.com/completed/statement-of-accomplishment/course/e309888eb54053e098045d035fdf35a903f0e73d)  |`DATACAMP`|
+|2023|  [Data Engineer & Big data Multi-Cloud](https://drive.google.com/file/d/1Ua5HgVap26Eeqm__8DBo3HRucka751O7/view?usp=sharing)   |`BIG DATA ACADEMY`|
 |2023|  Bootcamp Data Science |`DESAFIO LATAM`|
-|2023|  Azure Data Factory desde cero    |`UDEMY`|  
-|2024|  Web Scraping in Python BeautifulSoup, Selenium & Scrapy |`UDEMY`|
-|2024|  Introduction to Kafka |`DATACAMP`|
-|2024|  Big data sin misterios |`EDX`|
-|2024|  MongoDB: Aprende desde cero a experto  |`UDEMY`|
-|2024|  Using Kafka on Confluent |`COURSERA`|
-|2024|  Data Analysis with Databricks SQL |`DATABRICKS`|
-|2024|  GCP Cloud Digital Leader Certification |`KODEKLOUD`|
-|2024|  Delta Lake with Azure Databricks: Deep Dive |`PLURALSIGHT`|
-|2024| Databricks - Master Azure Databricks for Data Engineers |`UDEMY`|
+|2023|  [Azure Data Factory desde cero](https://www.udemy.com/certificate/UC-44d2cad8-f52d-4cdb-9bab-e37bb8e36332/) |`UDEMY`|  
+|2024|  [Web Scraping in Python BeautifulSoup, Selenium & Scrapy](https://uandresbelloedu-my.sharepoint.com/:b:/g/personal/a_perezlino_uandresbello_edu/EdhJmK_hq3VOmxSJXsSMrpoBSeuSWuh9EXaK4mpyT3kZdQ?e=iGjUty) |`UDEMY`|
+|2024|  [Introduction to Kafka](https://www.datacamp.com/completed/statement-of-accomplishment/course/db2f734bb2b873526b46321eb50dcd087adfa851) |`DATACAMP`|
+|2024|  [Big data sin misterios](https://courses.edx.org/certificates/5d66386fbea647558d6dcd38635781cc) |`EDX`|
+|2024|  [MongoDB: Aprende desde cero a experto](https://www.udemy.com/certificate/UC-634e4cc9-891b-44d4-ae4e-51ca45ceaa57/)  |`UDEMY`|
+|2024|  [Using Kafka on Confluent](https://coursera.org/share/d8adbbf0f1616775f9882a038a9d0d35) |`COURSERA`|
+|2024|  [Data Analysis with Databricks SQL](https://drive.google.com/file/d/1XPEq7yL5fz-gWVNOfI0kjZ1uayVoz1iH/view?usp=sharing) |`DATABRICKS`|
+|2024|  [GCP Cloud Digital Leader Certification](https://learn.kodekloud.com/certificate/f2033039-d781-488b-b2ad-114a93e9f18a) |`KODEKLOUD`|
+|2024|  [Delta Lake with Azure Databricks: Deep Dive](https://app.pluralsight.com/achievements/share/6ccdb847-ccb3-47fc-ae81-b9c95b7ad727) |`PLURALSIGHT`|
+|2024| [Databricks - Master Azure Databricks for Data Engineers](https://www.udemy.com/certificate/UC-e5f60839-f725-4212-96ff-5a15b0bc16b8/) |`UDEMY`|
