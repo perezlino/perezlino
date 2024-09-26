@@ -66,9 +66,9 @@
 
 ## Certificaciones Profesionales
 
-- ### [Microsoft Azure Data Fundamentals (DP-900)](https://www.credly.com/badges/5e2fa5df-5bba-4f6f-8c1e-21b312bb177c)
+- ### [Microsoft Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/api/credentials/share/en-us/ALFONSOPREZLINO-2491/AD0C61F3A321C821?sharingId=71E12A992A7BFB58)
 
-- ### [Microsoft Power Bi Data Analyst Associate (PL-300)](https://learn.microsoft.com/en-us/users/alfonsoprezlino-2491/credentials/d9e87dcd761cd163?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- ### [Microsoft Power Bi Data Analyst Associate (PL-300)](https://learn.microsoft.com/api/credentials/share/en-us/ALFONSOPREZLINO-2491/D9E87DCD761CD163?sharingId=71E12A992A7BFB58)
 
 - ### [Databricks Certified Associate Developer for Apache Spark 3.0](https://credentials.databricks.com/45373b00-a660-43c4-ba65-57e9625b9906)
 
