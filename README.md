@@ -84,9 +84,9 @@
 
 |AÑO| Curso| Empresa emisora|
 |---|---|---|
-|2021|  Programa de especialización en Ciencia de datos |`KIBERNUM`| 
+|2021|  [Programa de especialización en Ciencia de datos](https://uandresbelloedu-my.sharepoint.com/:b:/g/personal/a_perezlino_uandresbello_edu/EQymkusqMGFKlGX2PUM9P3oB4wzrB8o0b__p_yY2YewVIQ?e=beSiLQ) |`KIBERNUM`| 
 |2022|  [Python Deep Dive](https://www.udemy.com/certificate/UC-a68e80bf-156e-467b-9c71-256f4019c17c/) |`UDEMY`|
-|2022|  [Programa de especialización en Big Data Engineering & Big Data Architect Fundamentals](https://uandresbelloedu-my.sharepoint.com/:b:/g/personal/a_perezlino_uandresbello_edu/EQymkusqMGFKlGX2PUM9P3oB4wzrB8o0b__p_yY2YewVIQ?e=beSiLQ) |`BIG DATA ACADEMY`|
+|2022|  Programa de especialización en Big Data Engineering & Big Data Architect Fundamentals |`BIG DATA ACADEMY`|
 |2022|  [Scala Programming In-Depth](https://www.udemy.com/certificate/UC-9dec48fc-8d81-45bc-a282-a425951c4e5e/) |`UDEMY`|
 |2022|  [Apache Airflow - The Hands-On Guide](https://www.udemy.com/certificate/UC-d64e4f32-5470-47c7-8ef6-ed1b7d46460d/) |`UDEMY`|
 |2023|  [Programa formativo en Spark Scala en Databricks](https://drive.google.com/file/d/1fz3Wzo7PzfviZbxnnKgGAunrN99UBe4J/view?usp=sharing) |`BIG DATA ACADEMY`|
