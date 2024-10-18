@@ -103,6 +103,6 @@
 |2024|  [Using Kafka on Confluent](https://coursera.org/share/d8adbbf0f1616775f9882a038a9d0d35) |`COURSERA`|
 |2024|  [Data Analysis with Databricks SQL](https://drive.google.com/file/d/1XPEq7yL5fz-gWVNOfI0kjZ1uayVoz1iH/view?usp=sharing) |`DATABRICKS`|
 |2024|  [GCP Cloud Digital Leader Certification](https://learn.kodekloud.com/certificate/f2033039-d781-488b-b2ad-114a93e9f18a) |`KODEKLOUD`|
-|2024|  [Delta Lake with Azure Databricks: Deep Dive](https://app.pluralsight.com/achievements/share/6ccdb847-ccb3-47fc-ae81-b9c95b7ad727) |`PLURALSIGHT`|
+|2024|  [Delta Lake with Azure Databricks: Deep Dive](https://drive.google.com/file/d/1ESVmMfDOpjVso1yEBoAdiGbOVdsrSDU1/view?usp=sharing) |`PLURALSIGHT`|
 |2024| [Databricks - Master Azure Databricks for Data Engineers](https://www.udemy.com/certificate/UC-e5f60839-f725-4212-96ff-5a15b0bc16b8/) |`UDEMY`|
 |2024| [Spark Streaming - Stream Processing in Lakehouse - PySpark](https://www.udemy.com/certificate/UC-9341e4dd-277a-406a-877b-f96081836d9f/) |`UDEMY`|
