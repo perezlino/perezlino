@@ -74,6 +74,8 @@
 
 - ### [Databricks Lakehouse Fundamentals](https://credentials.databricks.com/c4de6421-498a-4b49-9ed2-ac56d2fa199c#gs.8tkvl6)
 
+- ### [Databricks Fundamentals](https://credentials.databricks.com/266a11be-8fd5-413d-961b-7e4614bdc14f)
+
 - ### [Astronomer Certification for Apache Airflow Fundamentals](https://www.credly.com/badges/83b04a71-3694-4623-8ccd-98350c0c754a)
 
 - ### [Astronomer Certification DAG Authoring for Apache Airflow](https://www.credly.com/badges/6e7a6b94-005c-4460-87e2-b335b0813236)
